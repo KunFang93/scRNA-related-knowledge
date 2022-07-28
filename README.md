@@ -14,4 +14,6 @@ Recording some informative tutorials and threads (ordered by its issue number (l
 [**Differential expression testing post-integration#4000**](https://github.com/satijalab/seurat/discussions/4000)
 
 
+[**Meaning of counts, data and scale.data slots in SCTransformed data #3711**](https://github.com/satijalab/seurat/issues/3711)
+
 [**Using "latent.vars" in FindMarkers function is not helpful#3369**](https://github.com/satijalab/seurat/discussions/3369)
