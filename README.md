@@ -1,13 +1,20 @@
 # scRNA-related-knowledge
-Recording some informative tutorials and threads (ordered by its issue number (latest to oldest))
+Recording some informative papers, blogs, tutorials and threads (ordered by its issue number (latest to oldest))
 
-## Tutorials
+## theoretical knowledge
+[**The triumphs and limitations of computational methods for scRNA-seq**](https://www.nature.com/articles/s41592-021-01171-x)
+
+
+
+
+## Practical knowledge
+### Tutorials
 [**Performing integration on datasets normalized with SCTransform**](https://satijalab.org/seurat/articles/integration_introduction.html#performing-integration-on-datasets-normalized-with-sctransform-1)
 
 [**FindMarkers source code process analysis**](https://programmer.ink/think/shengxin-findmarkers-source-code-process-analysis-default-parameter.html)
 
 
-## Threads
+### Threads
 [**Elaborate FindMarkers() and AverageExpression() for Seurat v4#4210**](https://github.com/satijalab/seurat/discussions/4210)
 
 
