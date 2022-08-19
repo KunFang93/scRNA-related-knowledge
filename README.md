@@ -1,10 +1,12 @@
 # scRNA-related-knowledge
 Recording some informative papers, blogs, tutorials and threads (ordered by its issue number (latest to oldest))
 
-## theoretical knowledge
-[**The triumphs and limitations of computational methods for scRNA-seq**](https://www.nature.com/articles/s41592-021-01171-x)
+## Theoretical knowledge
+### Papers
+[**The triumphs and limitations of computational methods for scRNA-seq**](https://www.nature.com/articles/s41592-021-01171-x)  
 
-
+### blogs or other source
+[**流型学习(mainfold learning)**](https://www.zhihu.com/question/24015486).  
 
 
 ## Practical knowledge
