@@ -6,7 +6,7 @@ Recording some informative papers, blogs, tutorials and threads (ordered by its 
 [**The triumphs and limitations of computational methods for scRNA-seq**](https://www.nature.com/articles/s41592-021-01171-x)  
 
 ### Blogs, Youtube or Other sources
-[**流型学习(mainfold learning)**](https://www.zhihu.com/question/24015486). 
+[**流型学习(mainfold learning)**](https://www.zhihu.com/question/24015486).   
 [**Ergodic process**](https://www.youtube.com/watch?v=VCb2AMN87cg)
 
 
