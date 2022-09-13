@@ -29,3 +29,5 @@ Recording some informative papers, blogs, tutorials and threads (ordered by its 
 [**Using "latent.vars" in FindMarkers function is not helpful#3369**](https://github.com/satijalab/seurat/discussions/3369)
 
 [**subset(downsample= X) #3033**](https://github.com/satijalab/seurat/issues/3033)
+
+[**Adjusting DoHeatMap color scale #1531**](https://github.com/satijalab/seurat/issues/1531)
