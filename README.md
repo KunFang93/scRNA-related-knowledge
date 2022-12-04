@@ -30,6 +30,8 @@ Recording some informative papers, blogs, tutorials and threads (ordered by its 
 
 [**subset(downsample= X) #3033**](https://github.com/satijalab/seurat/issues/3033)
 
-[**Adjusting DoHeatMap color scale #1531**](https://github.com/satijalab/seurat/issues/1531)
+[**Adjusting DoHeatMap color scale #1531**](https://github.com/satijalab/seurat/issues/1531).  
 
-[**Randomly downsample seurat object #3108**](https://github.com/satijalab/seurat/issues/3108)
+[**Randomly downsample seurat object #3108**](https://github.com/satijalab/seurat/issues/3108).  
+
+[**What are the differences between vars.to.regress and latent.vars? Should I use both for a variable? #4259**](https://github.com/satijalab/seurat/discussions/4259)
