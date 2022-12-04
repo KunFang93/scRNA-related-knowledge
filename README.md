@@ -16,6 +16,8 @@ Recording some informative papers, blogs, tutorials and threads (ordered by its 
 
 [**FindMarkers source code process analysis**](https://programmer.ink/think/shengxin-findmarkers-source-code-process-analysis-default-parameter.html)
 
+[**AddModuleScore**](https://www.waltermuskovic.com/2021/04/15/seurat-s-addmodulescore-function/)
+
 
 ### Threads
 [**Elaborate FindMarkers() and AverageExpression() for Seurat v4#4210**](https://github.com/satijalab/seurat/discussions/4210)
