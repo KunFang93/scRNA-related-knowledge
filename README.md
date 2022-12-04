@@ -37,3 +37,6 @@ Recording some informative papers, blogs, tutorials and threads (ordered by its 
 [**Randomly downsample seurat object #3108**](https://github.com/satijalab/seurat/issues/3108).  
 
 [**What are the differences between vars.to.regress and latent.vars? Should I use both for a variable? #4259**](https://github.com/satijalab/seurat/discussions/4259)
+
+[**Integration workflow doubts #3665**](https://github.com/satijalab/seurat/issues/3665)
+
