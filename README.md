@@ -18,6 +18,7 @@ Recording some informative papers, blogs, tutorials and threads (ordered by its 
 
 [**AddModuleScore**](https://www.waltermuskovic.com/2021/04/15/seurat-s-addmodulescore-function/)
 
+[**Tips for large dataset**](Tips for integrating large datasets). 
 
 ### Threads
 [**Elaborate FindMarkers() and AverageExpression() for Seurat v4#4210**](https://github.com/satijalab/seurat/discussions/4210)
