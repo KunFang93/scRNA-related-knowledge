@@ -1,4 +1,4 @@
-# scRNA-related-knowledge
+# scRNA-scATAC-related-knowledge
 Recording some informative papers, blogs, tutorials and threads (ordered by its issue number (latest to oldest))
 
 ## Theoretical knowledge
@@ -39,5 +39,10 @@ Recording some informative papers, blogs, tutorials and threads (ordered by its 
 
 [**What are the differences between vars.to.regress and latent.vars? Should I use both for a variable? #4259**](https://github.com/satijalab/seurat/discussions/4259)
 
-[**Integration workflow doubts #3665**](https://github.com/satijalab/seurat/issues/3665)
+[**Integration workflow doubts #3665**](https://github.com/satijalab/seurat/issues/3665)  
 
+[**Building a Custom T2T reference for Cell Ranger ARC**](https://kb.10xgenomics.com/hc/en-us/articles/29207065679501-Building-a-Custom-T2T-reference-for-Cell-Ranger-ARC)  
+
+[**Build Notes for Reference Packages**](https://www.10xgenomics.com/cn/support/software/cell-ranger/downloads/cr-ref-build-steps)  
+
+[**reference release note**](https://www.10xgenomics.com/cn/support/software/cell-ranger/latest/release-notes/cr-reference-release-notes)
