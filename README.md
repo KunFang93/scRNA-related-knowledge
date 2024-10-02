@@ -45,4 +45,6 @@ Recording some informative papers, blogs, tutorials and threads (ordered by its 
 
 [**Build Notes for Reference Packages**](https://www.10xgenomics.com/cn/support/software/cell-ranger/downloads/cr-ref-build-steps)  
 
-[**reference release note**](https://www.10xgenomics.com/cn/support/software/cell-ranger/latest/release-notes/cr-reference-release-notes)
+[**reference release note**](https://www.10xgenomics.com/cn/support/software/cell-ranger/latest/release-notes/cr-reference-release-notes)  
+
+[**Download Center**](https://www.10xgenomics.com/support/software/cell-ranger-arc/downloads)
