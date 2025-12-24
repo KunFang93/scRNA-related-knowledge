@@ -50,4 +50,4 @@ Recording some informative papers, blogs, tutorials and threads (ordered by its 
 [**Download Center**](https://www.10xgenomics.com/support/software/cell-ranger-arc/downloads)  
 
 ### OCM analysis
-[**CellRaner multi**](https://www.10xgenomics.com/support/software/cell-ranger/latest/analysis/running-pipelines/cr-3p-multi#ocm)
+[**CellRanger multi**](https://www.10xgenomics.com/support/software/cell-ranger/latest/analysis/running-pipelines/cr-3p-multi#ocm)
