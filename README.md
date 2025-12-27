@@ -50,4 +50,5 @@ Recording some informative papers, blogs, tutorials and threads (ordered by its 
 [**Download Center**](https://www.10xgenomics.com/support/software/cell-ranger-arc/downloads)  
 
 ### OCM analysis
-[**CellRanger multi**](https://www.10xgenomics.com/support/software/cell-ranger/latest/analysis/running-pipelines/cr-3p-multi#ocm)
+[**CellRanger multi**](https://www.10xgenomics.com/support/software/cell-ranger/latest/analysis/running-pipelines/cr-3p-multi#ocm)   
+[**Calling Cell Barcode**](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.10xgenomics.com%2Fsupport%2Fsoftware%2Fcell-ranger%2Flatest%2Falgorithms-overview%2Fcr-gex-algorithm%23cell_calling&data=05%7C02%7Ckf2799%40cumc.columbia.edu%7C2825bea16ff5434f1dc008de43260d49%7Cb0002a9b0017404d97dc3d3bab09be81%7C0%7C0%7C639022027911293631%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=g5c2pUTz5ciMcRL65Aki2Fu%2FmPpsJfpJGczrD7mlvW0%3D&reserved=0)  
