@@ -57,3 +57,5 @@ Recording some informative papers, blogs, tutorials and threads (ordered by its 
 [**Cell Ranger's Gene Expression Algorithm**](https://www.10xgenomics.com/support/software/cell-ranger/latest/algorithms-overview/cr-gex-algorithm#cell_calling)  
 
 [**ambient RNA**](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fkb.10xgenomics.com%2Fs%2Farticle%2F12123695108493-What-can-I-do-if-my-single-cell-nuclei-suspension-contains-a-high-amount-of-debris&data=05%7C02%7Ckf2799%40cumc.columbia.edu%7C2825bea16ff5434f1dc008de43260d49%7Cb0002a9b0017404d97dc3d3bab09be81%7C0%7C0%7C639022027911277122%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=cenlV9CAlnLM0gzSVCgIljz%2B22UDQgVDhOwmhp%2FTMM4%3D&reserved=0)  
+
+[**cr-barcode-rank-plot**](https://www.10xgenomics.com/support/software/cell-ranger/latest/advanced/cr-barcode-rank-plot)   
